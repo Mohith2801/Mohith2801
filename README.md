@@ -1,56 +1,80 @@
 <h1 align="center">Hi 👋, I'm Narra Mohith Charan</h1>
 
 <h3 align="center">
-Machine Learning Engineer | Data Science Enthusiast | AI Developer
+Machine Learning Engineer | AI Developer | Final Year B.Tech IT @ IIIT Bhubaneswar
 </h3>
 
 <p align="center">
-🎓 Final Year B.Tech Information Technology Student @ IIIT Bhubaneswar (2023–2027)
-</p>
-
-<p align="center">
-Passionate about building intelligent AI solutions using Machine Learning,
-Deep Learning, Computer Vision, NLP, and Generative AI.
+Passionate about building end-to-end AI solutions using Machine Learning, Deep Learning,
+Computer Vision, NLP and Generative AI.
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Final Year B.Tech Information Technology student at **IIIT Bhubaneswar**
-- 🤖 Passionate about **Machine Learning, Artificial Intelligence, Data Science, Computer Vision, NLP, and Generative AI**
-- 💡 Experienced in building end-to-end AI applications from data preprocessing to deployment
-- 🌱 Currently expanding my knowledge in **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Engineering**
-- 🎯 Seeking **Machine Learning, Data Science, AI Engineer, and Software Engineering** opportunities
+🎓 Final Year B.Tech Information Technology student at **IIIT Bhubaneswar**
+
+🤖 Interested in
+
+- Machine Learning
+- Artificial Intelligence
+- Computer Vision
+- Natural Language Processing
+- Generative AI
+- Data Science
+
+💡 I enjoy building intelligent systems that solve real-world problems through data-driven solutions.
+
+🌱 Currently learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- LangChain
+
+🎯 Looking for
+
+- Machine Learning Engineer
+- AI Engineer
+- Data Scientist
+- Software Engineer
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### Programming Languages
+### Programming
+
 - Python
 - SQL
 - C++
 
-### Machine Learning & AI
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing (NLP)
-- Generative AI
+### Machine Learning
 
-### Libraries & Frameworks
 - Scikit-learn
 - TensorFlow
 - Keras
+- Machine Learning
+- Deep Learning
+
+### AI
+
+- Computer Vision
+- NLP
+- Generative AI
+
+### Data
+
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Plotly
-- Streamlit
 
-### Tools
+### Development
+
+- Streamlit
 - Git
 - GitHub
 - VS Code
@@ -58,28 +82,49 @@ Deep Learning, Computer Vision, NLP, and Generative AI.
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 Featured Projects
 
-### 🩺 AI Medical Imaging Assistant
+## 🩺 AI Medical Imaging Assistant
+
 AI-powered medical image analysis using Computer Vision and Deep Learning.
 
-### 📄 AI Resume Analyzer Pro
-NLP-based Resume Analyzer with ATS scoring, skill extraction, and personalized feedback.
+---
 
-### 🏠 Smart Real Estate Price Prediction
-End-to-end Machine Learning application with Streamlit deployment and PDF report generation.
+## 📄 AI Resume Analyzer Pro
 
-### 📈 COVID-19 Forecasting
-Time-series forecasting using Facebook Prophet for predictive analytics.
+NLP-powered resume analysis with ATS scoring and personalized recommendations.
 
 ---
 
-## 📫 Connect With Me
+## 🏠 Smart Real Estate Price Prediction
 
-- 💼 LinkedIn: https://www.linkedin.com/in/narra-mohith-charan-07b89727a
-- 💻 GitHub: https://github.com/Mohith2801
-- 📧 Email: narramohithcharan@gmail.com
+End-to-end Machine Learning application with Streamlit deployment.
+
+🔗 Live Demo:
+https://smart-real-estate-price-prediction-d3xt6k7qkza8g8met4jvys.streamlit.app/
 
 ---
 
-⭐ **"Building intelligent AI solutions that solve real-world problems."**
+## 📈 COVID-19 Forecasting
+
+Time-Series forecasting using Facebook Prophet.
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/narra-mohith-charan-07b89727a
+
+💻 GitHub
+
+https://github.com/Mohith2801
+
+📧 Email
+
+narramohithcharan@gmail.com
+
+---
+
+⭐ *"Building intelligent AI solutions for real-world problems."*
