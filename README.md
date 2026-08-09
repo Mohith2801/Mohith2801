@@ -105,12 +105,6 @@ https://smart-real-estate-price-prediction-d3xt6k7qkza8g8met4jvys.streamlit.app/
 
 ---
 
-## 📈 COVID-19 Forecasting
-
-Time-Series forecasting using Facebook Prophet.
-
----
-
 # 📫 Connect With Me
 
 💼 LinkedIn
