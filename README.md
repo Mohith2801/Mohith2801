@@ -119,6 +119,10 @@ https://github.com/Mohith2801
 
 narramohithcharan@gmail.com
 
+📃 Resume
+
+https://drive.google.com/file/d/1GuxqHWieaqFAHS3Eyq3EW63YtUaJ-k2j/view?usp=sharing
+
 ---
 
 ⭐ *"Building intelligent AI solutions for real-world problems."*
