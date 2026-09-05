@@ -84,6 +84,13 @@ Computer Vision, NLP and Generative AI.
 
 # 🚀 Featured Projects
 
+
+## 🚨 AI Software Incident Commander
+
+AI Software Incident Commander is a multi-agent AI system designed to assist engineers during software incident investigations.
+
+---
+
 ## 🩺 AI Medical Imaging Assistant
 
 AI-powered medical image analysis using Computer Vision and Deep Learning.
@@ -93,15 +100,6 @@ AI-powered medical image analysis using Computer Vision and Deep Learning.
 ## 📄 AI Resume Analyzer Pro
 
 NLP-powered resume analysis with ATS scoring and personalized recommendations.
-
----
-
-## 🏠 Smart Real Estate Price Prediction
-
-End-to-end Machine Learning application with Streamlit deployment.
-
-🔗 Live Demo:
-https://smart-real-estate-price-prediction-d3xt6k7qkza8g8met4jvys.streamlit.app/
 
 ---
 
