@@ -119,7 +119,7 @@ narramohithcharan@gmail.com
 
 📃 Resume
 
-https://drive.google.com/file/d/1GuxqHWieaqFAHS3Eyq3EW63YtUaJ-k2j/view?usp=sharing
+https://drive.google.com/file/d/1Umxn_l4uAuQ_PWPxp1G47jFW1st-3-vo/view?usp=sharing
 
 ---
 
