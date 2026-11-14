@@ -86,19 +86,11 @@
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/narra-mohith-charan-07b89727a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Mohith2801" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:narramohithcharan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+- **LinkedIn:** https://www.linkedin.com/in/narra-mohith-charan-07b89727a
+- **GitHub:** https://github.com/Mohith2801
+- **Email:** narramohithcharan@gmail.com
 
-📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1ooIGLLnjb7IZnCEgXSpQNQ7kiuZx-2zJ/view?usp=drive_link)
+📄 **Resume:** https://drive.google.com/file/d/1ooIGLLnjb7IZnCEgXSpQNQ7kiuZx-2zJ/view
 
 ---
 
